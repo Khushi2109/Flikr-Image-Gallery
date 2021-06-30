@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flikr Image Gallery</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile_section">Khushi Kumari</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+</resources>
